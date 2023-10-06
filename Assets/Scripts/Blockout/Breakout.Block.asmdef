@@ -1,0 +1,16 @@
+{
+    "name": "Breakout.Block",
+    "rootNamespace": "",
+    "references": [
+        "GUID:9937b70ffc67d5844b8efe92bc36ab2b"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
